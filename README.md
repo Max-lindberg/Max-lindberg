@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Max-lindberg
-- 👀 I’m interested in web and game develoment
+- 👀 I’m interested in white hat hacking and pyhthon (:
 - 🌱 I’m currently learning python(:
 - 📫 How to reach me xflickv1@gmail.com or discord atex#8526
 
