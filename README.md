@@ -16,7 +16,7 @@ Name: Max Lindberg<br>Im 13 years old<br>What i in to? Im in to gokart where im 
 ![](https://github-profile-trophy.vercel.app/?username=Max-Lindberg&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=xflick3)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=maxlindberg)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Max-Lindberg&icon=0&color=9)](https://visitcount.itsvg.in)
