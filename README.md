@@ -1,5 +1,5 @@
 # 💫 About Me:
-Name: Max Lindberg<br>Im 14 years old<br>What im working on? Right now im creating Gelblasting.dk where we sell gelblasters in Denmark! Im also learning<br>some and ruby/ruby on rails.<br>
+Name: Max Lindberg<br>Im 14 years old<br>What im working on? Right now im creating Gelblasting.dk where we sell gelblasters in Denmark! Im also learning<br>some ruby/ruby on rails.<br>
 
 
 ## 🌐 Socials:
